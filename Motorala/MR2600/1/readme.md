@@ -58,7 +58,7 @@ Cookie: SESSION_ID=2:1556825615:2; uid=TFKV4ftJ
 </soap:Envelope>
 ```
 
-![image-20220405112133823](../../../d-link/dir-816/2/img/image-20220405112133823.png)
+![image-20220405112133823](img/image-20220405112133823.png)
 
 Figure 2 POC attack effect
 
